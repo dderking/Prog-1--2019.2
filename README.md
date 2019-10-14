@@ -14,6 +14,11 @@ UNIDADE 1-Números e Variáveis;Inteiros e Números de Ponto Flutuante;Textos e 
 
 UNIDADE 2- Formatação de string	
 
+## Contribution
+
+* [3Unidade](https://github.com/andremedeiro/ufcg/tree/master/prog1/exercicios/3Unidade) - Another ways of solving
+
+
 UNIDADE 3- Condição IF, ELIF, ELSE
 
 ## Contribution
