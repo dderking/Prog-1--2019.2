@@ -1,0 +1,6 @@
+meses = ["jan", "fev", "mar", "abr", "mai", "jun", "jul", "ago", "set", "out","nov", dez"]
+
+for i in range(12):
+  entrada = input(_.split()
+  media = float(entrada[0]) - float(entrada[1])
+  print("{} {:  2.1f}".format(meses[i], media))
